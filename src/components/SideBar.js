@@ -1,8 +1,7 @@
 import React from 'react'
 import { BrowserRouter as Router, Route, Link, Switch } from "react-router-dom";
 
-function SideBar
-    () {
+function SideBar() {
     return (
         <React.Fragment>
             <div className="col-2">
