@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-###`npm run dev`
-Runs the development and json server concurrently. No need run them in separate terminals
+### `npm run dev`
 
+Runs the development and json server concurrently. No need run them in separate terminals
 
 ### `npm start`
 
