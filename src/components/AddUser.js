@@ -34,8 +34,6 @@ class AddUser extends Component {
             .catch(err => alert("Error Occurred Try again"));
     };
 
-
-
     render() {
         return (
             <div className='col-9'>

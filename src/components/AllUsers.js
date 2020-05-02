@@ -19,7 +19,6 @@ class AllUsers extends Component {
         });
     }
 
-
     render() {
         return (
             <div className='col-9'>
