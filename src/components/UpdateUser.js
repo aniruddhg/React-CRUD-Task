@@ -28,7 +28,6 @@ class UpdateUser extends Component {
             .catch(err => console.log(err));
     };
 
-
     render() {
         return (
             <div className='col-9'>

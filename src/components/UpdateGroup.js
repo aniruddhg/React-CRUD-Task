@@ -81,7 +81,6 @@ class UpdateGroup extends Component {
         });
     };
 
-
     render() {
         return (
             <div className='col-9'>
