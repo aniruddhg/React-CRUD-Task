@@ -7,7 +7,6 @@ import Home from './components/Home';
 import Navigate from './components/SideBar';
 import AllUsers from './components/AllUsers';
 import SideBar from './components/SideBar';
-import NavBar from './NavBar';
 import AddUser from './components/AddUser';
 import UpdateUser from './components/UpdateUser';
 import AllGroups from './components/AllGroups';
