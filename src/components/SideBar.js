@@ -13,7 +13,7 @@ function SideBar() {
                         <Link to='/deleteusers'><li className="nav-link" id="v-pills-home-tab" data-toggle="pill" role="tab" aria-controls="v-pills-home" aria-selected="false">Delete Users</li></Link>
                         <Link to='/allgroups'><li className="nav-link" id="v-pills-home-tab" data-toggle="pill" role="tab" aria-controls="v-pills-home" aria-selected="false">All Groups</li></Link>
                         <Link to='/creategroup'><li className="nav-link" id="v-pills-home-tab" data-toggle="pill" role="tab" aria-controls="v-pills-home" aria-selected="false">Create Group</li></Link>
-                        <Link to='/deletegroups'><li className="nav-link" id="v-pills-home-tab" data-toggle="pill" role="tab" aria-controls="v-pills-home" aria-selected="false">Delete Group</li></Link>
+                        <Link to='/deletegroups'><li className="nav-link" id="v-pills-home-tab" data-toggle="pill" role="tab" aria-controls="v-pills-home" aria-selected="false">Delete Groups</li></Link>
                     </ul>
                 </div>
             </div>
