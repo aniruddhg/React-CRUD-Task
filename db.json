@@ -1,0 +1,122 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe1"
+    },
+    {
+      "id": "2",
+      "name": "John Doe2"
+    },
+    {
+      "id": "3",
+      "name": "John Doe3"
+    },
+    {
+      "id": "4",
+      "name": "John Doe4"
+    },
+    {
+      "id": "5",
+      "name": "John Doe5"
+    },
+    {
+      "id": "6",
+      "name": "John Doe6"
+    },
+    {
+      "id": "7",
+      "name": "John Doe7"
+    },
+    {
+      "id": "9",
+      "name": "John Doe9"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "PRISM UI",
+      "users": [
+        {
+          "id": "2",
+          "name": "John Doe2"
+        },
+        {
+          "id": "3",
+          "name": "John Doe3"
+        },
+        {
+          "id": "5",
+          "name": "John Doe5"
+        },
+        {
+          "id": "6",
+          "name": "John Doe6"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "BEAM",
+      "users": [
+        {
+          "id": "4",
+          "name": "John Doe4"
+        },
+        {
+          "id": "5",
+          "name": "John Doe5"
+        },
+        {
+          "id": "6",
+          "name": "John Doe6"
+        },
+        {
+          "id": "7",
+          "name": "John Doe7"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "CALM",
+      "users": [
+        {
+          "id": "2",
+          "name": "John Doe2"
+        },
+        {
+          "id": "3",
+          "name": "John Doe3"
+        },
+        {
+          "id": "4",
+          "name": "John Doe4"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "OBJECTS",
+      "users": [
+        {
+          "id": "6",
+          "name": "John Doe6"
+        },
+        {
+          "id": "4",
+          "name": "John Doe4"
+        },
+        {
+          "id": "5",
+          "name": "John Doe5"
+        },
+        {
+          "id": "3",
+          "name": "John Doe3"
+        }
+      ]
+    }
+  ]
+}
