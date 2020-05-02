@@ -96,9 +96,7 @@ class CreateGroup extends Component {
                             {this.state.userList.map(user => <tr key={user.id}><td width='10'><input type="checkbox" className="form-check-input " id={user.id} value={user.name} onChange={this.handleCheckboxChange} /></td><td width='150'>{user.id}</td><td width='150'>{user.name}</td></tr>)}
                         </tbody>
                     </Table>
-
                     <button type="submit" className="btn btn-primary">Submit</button>
-
                 </form>
             </div>
         )
